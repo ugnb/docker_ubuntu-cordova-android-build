@@ -1,1 +1,1 @@
-# docker_ubuntu-cordova-android-build
+# Dockerfile for Ubuntu-based Cordova Android build server
